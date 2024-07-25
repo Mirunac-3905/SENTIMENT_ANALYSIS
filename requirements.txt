@@ -1,0 +1,9 @@
+streamlit
+google-api-python-client
+emoji
+vaderSentiment
+matplotlib
+wordcloud
+pandas
+plotly
+SQLAlchemy
